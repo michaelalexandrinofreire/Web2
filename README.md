@@ -10,8 +10,4 @@ Este projeto é uma API para cadastro e relatório de placas de veículos. A API
 - `GET /relatorio/cidade/:cidade`: Gera um relatório em PDF com os registros de placas de uma cidade específica.
 - `GET /consulta/:placa`: Consulta se uma placa está registrada no banco de dados.
 
-## Instalação
-
-1. Clone o repositório:
-   ```bash
-   git clone <URL_DO_REPOSITORIO>
+link do projeto: https://web2-placas.vercel.app/
