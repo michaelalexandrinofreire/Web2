@@ -1,6 +1,6 @@
 # Projeto de Cadastro de Placas
 
-##Equipe:
+## Equipe:
 - michael alexandrino freire
 - cicera fabiola angelo da silva
 - joyce teixeira da silva
